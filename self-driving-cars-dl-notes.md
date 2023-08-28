@@ -31,9 +31,10 @@
 15. Section 14 : [Behavior Cloning](https://github.com/afondiel/full-self-driving-car-simulation)
 
 
-# References
+## References
 
-- [Projects](#projects)
-  
+- [Projects](#projects) 
 - [Books](#books)
+- [What Is the Best Algorithm for Circle Detection Other Than Hough Transform?](https://saturncloud.io/blog/what-is-the-best-algorithm-for-circle-detection-other-than-hough-transform/#:~:text=Accumulative%20Voting%20Transform%3A%20The%20Accumulative,circle%20centers%20within%20each%20cell.)
+
   
